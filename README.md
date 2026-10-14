@@ -57,7 +57,7 @@ These cases show why technical performance alone is not enough to establish that
 
 **Source:** [Automated Decision-Making: Better Practice Guide](https://www.ombudsman.gov.au/__data/assets/pdf_file/0025/317437/Automated-Decision-Making-Better-Practice-Guide-March-2025.pdf)
 
-**Insert screenshot of the source here.**
+
 
 ### Summary of the artefact
 
@@ -73,7 +73,7 @@ I chose this guide because it helped me understand that ADM includes simple rule
 
 **Source:** [Robodebt: A Socio-Technical Case Study of Public Sector Information Systems Failure](https://doi.org/10.3127/ajis.v28.4681)
 
-**Insert screenshot of the journal article here.**
+
 
 ### Summary of the artefact
 
@@ -89,7 +89,7 @@ I chose this article because it presents Robodebt as a socio-technical failure r
 
 **Source:** [Services Australia — New Robodebt Class Action Settlement](https://www.servicesaustralia.gov.au/new-robodebt-class-action-settlement)
 
-**Insert screenshot of the source here.**
+
 
 ### Summary of the artefact
 
@@ -105,7 +105,7 @@ I chose this item because it shows that the harm caused by ADM does not end when
 
 **Source:** [Automated Decision-Making Reform: Public Consultation Summary](https://consultations.ag.gov.au/integrity/adm/user_uploads/automated-decision-making_summary-of-the-public-consultation-process.pdf)
 
-**Insert screenshot of the source here.**
+
 
 ### Summary of the artefact
 
@@ -121,7 +121,7 @@ I chose this document because it shows Australia responding to Robodebt at a pol
 
 **Source:** [Computing — AI Bias Uncovered in UK Welfare System](https://computing.co.uk/news/2024/ai/ai-bias-uncovered-in-uk-welfare-system)
 
-**Insert screenshot of the source here.**
+
 
 ### Summary of the artefact
 
@@ -137,7 +137,7 @@ I chose this case because it closely relates to the ethical risks of an AI model
 
 **Source:** [Erasmus Magazine — Discrimination by DUO Even Worse Than Thought](https://www.erasmusmagazine.nl/en/2024/05/24/discrimination-by-duo-even-worse-than-thought/)
 
-**Insert screenshot of the source here.**
+
 
 ### Summary of the artefact
 
