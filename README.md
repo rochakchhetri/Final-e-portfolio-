@@ -161,14 +161,14 @@ In future software projects, I want to consider possible harms and test how a sy
 
 ## 12. References
 
-Attorney-General's Department 2025, *Automated decision-making reform: public consultation summary*, Attorney-General's Department, Canberra, viewed [insert actual access date], <https://consultations.ag.gov.au/integrity/adm/user_uploads/automated-decision-making_summary-of-the-public-consultation-process.pdf>.
+Attorney-General's Department 2025, Automated decision-making reform: public consultation summary, Attorney-General's Department, Canberra, viewed 12 October 2026, <https://consultations.ag.gov.au/integrity/adm/user_uploads/automated-decision-making_summary-of-the-public-consultation-process.pdf>.
 
-Clarke, R, Michael, K & Abbas, R 2024, 'Robodebt: a socio-technical case study of public sector information systems failure', *Australasian Journal of Information Systems*, vol. 28, <https://doi.org/10.3127/ajis.v28.4681>.
+Clarke, R, Michael, K & Abbas, R 2024, 'Robodebt: a socio-technical case study of public sector information systems failure', Australasian Journal of Information Systems, vol. 28, <https://doi.org/10.3127/ajis.v28.4681>.
 
-Commonwealth Ombudsman 2025, *Automated decision-making: better practice guide*, Commonwealth Ombudsman, Canberra, viewed [insert actual access date], <https://www.ombudsman.gov.au/__data/assets/pdf_file/0025/317437/Automated-Decision-Making-Better-Practice-Guide-March-2025.pdf>.
+Commonwealth Ombudsman 2025, Automated decision-making: better practice guide, Commonwealth Ombudsman, Canberra, viewed 12 October 2026, <https://www.ombudsman.gov.au/__data/assets/pdf_file/0025/317437/Automated-Decision-Making-Better-Practice-Guide-March-2025.pdf>.
 
-Erasmus Magazine 2024, 'Discrimination by DUO even worse than thought', *Erasmus Magazine*, 24 May, viewed [insert actual access date], <https://www.erasmusmagazine.nl/en/2024/05/24/discrimination-by-duo-even-worse-than-thought/>.
+Erasmus Magazine 2024, 'Discrimination by DUO even worse than thought', Erasmus Magazine, 24 May, viewed 12 October 2026, <https://www.erasmusmagazine.nl/en/2024/05/24/discrimination-by-duo-even-worse-than-thought/>.
 
-Kundaliya, D 2024, 'AI bias uncovered in UK welfare system', *Computing*, 9 December, viewed [insert actual access date], <https://computing.co.uk/news/2024/ai/ai-bias-uncovered-in-uk-welfare-system>.
+Kundaliya, D 2024, 'AI bias uncovered in UK welfare system', Computing, 9 December, viewed 12 October 2026, <https://computing.co.uk/news/2024/ai/ai-bias-uncovered-in-uk-welfare-system>.
 
-Services Australia 2025, *New Robodebt class action settlement*, Services Australia, Canberra, viewed [insert actual access date], <https://www.servicesaustralia.gov.au/new-robodebt-class-action-settlement>.
+Services Australia 2025, New Robodebt class action settlement, Services Australia, Canberra, viewed 12 October 2026, <https://www.servicesaustralia.gov.au/new-robodebt-class-action-settlement>.
